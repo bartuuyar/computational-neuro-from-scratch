@@ -1,6 +1,6 @@
 # computational-neuro-from-scratch
 
-###Building neuroscience understanding from first principles —  single neuron simulation to brain-level concepts.
+Building neuroscience understanding from first principles —  single neuron simulation to brain-level concepts.
 
 
 
@@ -40,8 +40,5 @@ spike shape, refractory period, hyperpolarization all emerge
 from four coupled differential equations with no phase 
 variable anywhere.
 
+<img width="997" height="397" alt="image" src="https://github.com/user-attachments/assets/510fb2f8-816e-4e06-b803-1cef53e06338" />
 
-
-- EEG / fMRI — measuring population activity from outside the skull
-- Brain regions and topology
-- Neural circuits
