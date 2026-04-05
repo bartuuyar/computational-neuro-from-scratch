@@ -1,7 +1,8 @@
 # computational-neuro-from-scratch
-Building neuroscience understanding from first principles —  single neuron simulation to brain-level concepts.
 
-# neuro-from-scratch
+###Building neuroscience understanding from first principles —  single neuron simulation to brain-level concepts.
+
+
 
 I'm a computer engineer teaching myself neuroscience. 
 This repo documents that process — as a series of simulations built from the ground up.
