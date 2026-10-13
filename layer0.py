@@ -1,10 +1,6 @@
-# =============================================================================
-# NEUROSCIENCE SIMULATION NOTEBOOK
-# =============================================================================
+
 # Goal: build a single neuron from scratch, layer by layer.
 # Each layer adds one real biological concept that the previous layer couldn't model.
-# We simulate first, understand second — confusion about equations disappears
-# when you can run them and watch what changes.
 
 
 # =============================================================================
