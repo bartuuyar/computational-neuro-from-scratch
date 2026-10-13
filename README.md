@@ -1,15 +1,14 @@
 # computational-neuro-from-scratch
 
-Building neuroscience understanding from first principles —  single neuron simulation to brain-level concepts.
+Building neuroscience understanding from first principles  single neuron simulation to brain-level concepts.
 
 
 
 I'm a computer engineer teaching myself neuroscience. 
-This repo documents that process — as a series of simulations built from the ground up.
+This repo documents that process as a series of simulations built from the ground up.
 
-The philosophy: simulate first, understand second. 
-Confusion about equations disappears when you can run 
-them and watch what changes.
+The philosophy: simulate first, understand concepts while building it. 
+Confusion about equations disappears when you can run  them and watch what changes.
 
 ## Structure
 
@@ -35,7 +34,7 @@ to integrate all of them.
 
 **Layer 2 → 3:** Layer 2 hardcodes spike behavior into 
 phase logic. The phases are labels on top of conductances 
-we weren't tracking. HH tracks the conductances directly — 
+we weren't tracking. HH tracks the conductances directly  
 spike shape, refractory period, hyperpolarization all emerge 
 from four coupled differential equations with no phase 
 variable anywhere.
